@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/e13c7d071b71469a8eb1eb4cd2b6791e/artifacts
+end_time: 1716334702829
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: e13c7d071b71469a8eb1eb4cd2b6791e
+run_name: calm-yak-352
+run_uuid: e13c7d071b71469a8eb1eb4cd2b6791e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334698138
+status: 3
+tags: []
+user_id: codespace

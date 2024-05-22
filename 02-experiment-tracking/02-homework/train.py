@@ -26,7 +26,7 @@ def run_train(data_path: str):
     
     mlflow.sklearn.autolog()
     
-    with mlflow.start_run():
+    with mlflow.start_run() as run:
         rf = RandomForestRegressor(max_depth=10, random_state=0)
         rf.fit(X_train, y_train)
         y_pred = rf.predict(X_val)
@@ -34,6 +34,8 @@ def run_train(data_path: str):
         rmse = mean_squared_error(y_val, y_pred, squared=False)
         
         mlflow.log_metric("rmse", rmse)
+        
+        print(f"Run ID: {run.info.run_id}")
 
 
 if __name__ == '__main__':

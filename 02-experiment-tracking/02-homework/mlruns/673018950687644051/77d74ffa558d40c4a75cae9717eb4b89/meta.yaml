@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/77d74ffa558d40c4a75cae9717eb4b89/artifacts
+end_time: 1716334697339
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: 77d74ffa558d40c4a75cae9717eb4b89
+run_name: unleashed-ram-666
+run_uuid: 77d74ffa558d40c4a75cae9717eb4b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334689734
+status: 3
+tags: []
+user_id: codespace

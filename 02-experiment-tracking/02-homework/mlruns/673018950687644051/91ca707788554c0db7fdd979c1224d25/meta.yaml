@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/91ca707788554c0db7fdd979c1224d25/artifacts
+end_time: 1716334711990
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: 91ca707788554c0db7fdd979c1224d25
+run_name: stylish-turtle-925
+run_uuid: 91ca707788554c0db7fdd979c1224d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334709633
+status: 3
+tags: []
+user_id: codespace

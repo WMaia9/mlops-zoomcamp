@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/309609752427538435/225fc3fed16845dfbeed4301aa364e62/artifacts
+end_time: 1716336029567
+entry_point_name: ''
+experiment_id: '309609752427538435'
+lifecycle_stage: active
+run_id: 225fc3fed16845dfbeed4301aa364e62
+run_name: luminous-yak-604
+run_uuid: 225fc3fed16845dfbeed4301aa364e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716336017531
+status: 3
+tags: []
+user_id: codespace

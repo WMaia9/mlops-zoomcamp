@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/1d0ca40ac87248cf8b3cf62011593d08/artifacts
+end_time: 1716334712768
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: 1d0ca40ac87248cf8b3cf62011593d08
+run_name: rambunctious-jay-275
+run_uuid: 1d0ca40ac87248cf8b3cf62011593d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334711997
+status: 3
+tags: []
+user_id: codespace

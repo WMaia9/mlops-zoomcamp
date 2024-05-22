@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/309609752427538435/10e6fe8f439a4f4da96dbe2c4189fd2d/artifacts
+end_time: 1716336046784
+entry_point_name: ''
+experiment_id: '309609752427538435'
+lifecycle_stage: active
+run_id: 10e6fe8f439a4f4da96dbe2c4189fd2d
+run_name: handsome-fish-920
+run_uuid: 10e6fe8f439a4f4da96dbe2c4189fd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716336038102
+status: 3
+tags: []
+user_id: codespace

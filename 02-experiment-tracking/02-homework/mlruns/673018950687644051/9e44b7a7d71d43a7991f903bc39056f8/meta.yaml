@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/9e44b7a7d71d43a7991f903bc39056f8/artifacts
+end_time: 1716334689728
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: 9e44b7a7d71d43a7991f903bc39056f8
+run_name: bemused-goat-524
+run_uuid: 9e44b7a7d71d43a7991f903bc39056f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334682052
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/309609752427538435/b76beaf56b4e4267800f13eab65090a6/artifacts
+end_time: 1716336038095
+entry_point_name: ''
+experiment_id: '309609752427538435'
+lifecycle_stage: active
+run_id: b76beaf56b4e4267800f13eab65090a6
+run_name: upset-stag-807
+run_uuid: b76beaf56b4e4267800f13eab65090a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716336029575
+status: 3
+tags: []
+user_id: codespace

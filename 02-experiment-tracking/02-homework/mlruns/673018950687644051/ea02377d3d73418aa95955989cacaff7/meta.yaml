@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/673018950687644051/ea02377d3d73418aa95955989cacaff7/artifacts
+end_time: 1716334715529
+entry_point_name: ''
+experiment_id: '673018950687644051'
+lifecycle_stage: active
+run_id: ea02377d3d73418aa95955989cacaff7
+run_name: flawless-moose-196
+run_uuid: ea02377d3d73418aa95955989cacaff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716334712774
+status: 3
+tags: []
+user_id: codespace
